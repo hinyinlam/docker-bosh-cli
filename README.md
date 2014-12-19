@@ -1,4 +1,4 @@
-Docker for BOSH command line
+BOSH command line in Docker
 ==============
 
 Background:
